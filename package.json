@@ -1,0 +1,14 @@
+{
+  "name": "lab02-1312024-1312461",
+  "version": "1.0.0",
+  "description": "This is a chat website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huu Quan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
