@@ -45,7 +45,7 @@ Yêu cầu **không bắt buộc**:
 * [ ] Quản lý các thay đổi trong cơ sở dữ liệu (sử dụng [db-migrate](https://www.npmjs.com/package/db-migrate))(**MSSV**)
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
-* [ ] Chức năng 1
+* [x] Push lên heroku bị lỗi bootstrap.
 * [ ] Chức năng 2
 
 ## Demo
