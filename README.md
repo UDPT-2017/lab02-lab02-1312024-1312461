@@ -4,7 +4,7 @@
 
 Thành viên:
 * [x] **1312461** Nguyễn Hửu Quân (NguyenHuuQuan)
-* [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
+* [x] **1312024** Phạm Trọng Ân (TrongAnPham)
 
 URL: **URL hosting của bài tập**
 
