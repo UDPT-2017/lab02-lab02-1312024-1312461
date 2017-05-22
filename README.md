@@ -6,7 +6,7 @@ Thành viên:
 * [x] **1312461** Nguyễn Hửu Quân (NguyenHuuQuan)
 * [x] **1312024** Phạm Trọng Ân (TrongAnPham)
 
-URL: **URL hosting của bài tập**
+URL: ** https://udpt-lab2-1312024-1312461.herokuapp.com/**
 
 ## Yêu cầu
 
