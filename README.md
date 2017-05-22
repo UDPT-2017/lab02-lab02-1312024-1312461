@@ -1,4 +1,4 @@
-# BT-UDPT-2 - *Name of your app*
+﻿# BT-UDPT-2 - *Name of your app*
 
 **Name of your app** là một bài tập 2 tại môn UDPT. Ứng dụng cho phép người dùng gửi tin nhắn (email) cho người dùng khác.
 
@@ -19,7 +19,7 @@ Yêu cầu **GIT**
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
-* [ ] Website layout theo kiến trúc MVC với các thành phần được tách thành nhiều module theo hướng dẫn. (**MSSV**)
+* [x] Website layout theo kiến trúc MVC với các thành phần được tách thành nhiều module theo hướng dẫn. (**1312461**)
 * [x] Trang web được thiết kế sẽ bao gồm các trang: home, messages, users, about. (**1312461**)
 * [ ] Cho phép người dùng biết họ đang ở trang nào (sử dụng breadcrumb, highlight navigation bar,...). (**MSSV**)
 * [x] Cho phép người dùng đăng ký tài khoản bằng các thông tin: email, password, name, phone.(**1312461**)
